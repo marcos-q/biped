@@ -1,5 +1,9 @@
 # biped
+Explorando robots bípedos
+
 ## Licencia 
 CC By SA
 
-Explorando robots bípedos
+
+## Fuentes
+Estructura: https://github.com/bq/zowi  
